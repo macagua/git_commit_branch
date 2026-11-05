@@ -215,3 +215,4 @@ git push origin feature/pagina-principal
 3. Crea el Pull Request siguiendo los pasos que te indique GitHub.
 4. Una vez revisado y listo para ser fusionado, haz el merge de la rama `feature/pagina-principal` en `main`.
 
+# Práctica Git
